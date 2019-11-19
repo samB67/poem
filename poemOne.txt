@@ -4,4 +4,6 @@ My new rainbow colours
 red 
 blue 
 purple
+yellow
+gold
 
