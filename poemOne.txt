@@ -6,4 +6,6 @@ blue
 purple
 yellow
 gold
+red
+pink
 
